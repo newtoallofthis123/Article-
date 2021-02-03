@@ -5,12 +5,12 @@ This is the website of the official repository of Articles- , I maintain this re
 Most of the news and how to sites are hosted on their own servers. I thought why not make a Github pages instead of a how-to site. I also licensed my articles as common use and are open-source
 
 ```markdown
-**Bold**Downloads
+**Download**
 I release my articles as a whole bundle every week so that you have sufficient reading material. To download them, you can either use the 7zip executable I provide or the NSIS installer or get it as a direct Zip file.
 
-## Download [**Bold**Zip]()
-## Download [**Bold**Installer]()
-## Download [**Bold** 7zip executable]()
+## Download [Zip]()
+## Download [Installer]()
+## Download [*7zip executable]()
 
 ```
 
