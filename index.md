@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Hello, welcome to Article from Github
+This is the website of the official repository of Articles- , I maintain this repository and I write articles in it everyday. The articles are in a pdf format for download and can be read on Github as well. Hope you enjoy them
 
-You can use the [editor on GitHub](https://github.com/newtoallofthis123/Article-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##Ideology 
+Most of the news and how to sites are hosted on their own servers. I thought why not make a Github pages instead of a how-to site. I also licensed my articles as common use and are open-source
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Downloads
 
 ```markdown
 Syntax highlighted code block
