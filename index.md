@@ -1,27 +1,17 @@
 ## Hello, welcome to Article from Github
 This is the website of the official repository of Articles- , I maintain this repository and I write articles in it everyday. The articles are in a pdf format for download and can be read on Github as well. Hope you enjoy them
 
-##Ideology 
+## Ideology 
 Most of the news and how to sites are hosted on their own servers. I thought why not make a Github pages instead of a how-to site. I also licensed my articles as common use and are open-source
 
-#Downloads
-
 ```markdown
-Syntax highlighted code block
+**DOWNLOADS**
+I release my articles as a whole bundle every week so that you have sufficient reading material. To download them, you can either use the 7zip executable I provide or the NSIS installer or get it as a direct Zip file.
 
-# Header 1
-## Header 2
-### Header 3
+## Download [**ZIP**]()
+## Download [**Installer**]()
+## Download [**Executable**]()
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
